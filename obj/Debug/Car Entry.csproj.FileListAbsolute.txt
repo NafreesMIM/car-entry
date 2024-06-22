@@ -1,0 +1,10 @@
+D:\Projects\Car Entry\bin\Debug\Car Entry.exe.config
+D:\Projects\Car Entry\bin\Debug\Car Entry.exe
+D:\Projects\Car Entry\bin\Debug\Car Entry.pdb
+D:\Projects\Car Entry\obj\Debug\Car Entry.csproj.AssemblyReference.cache
+D:\Projects\Car Entry\obj\Debug\Car_Entry.Form1.resources
+D:\Projects\Car Entry\obj\Debug\Car_Entry.Properties.Resources.resources
+D:\Projects\Car Entry\obj\Debug\Car Entry.csproj.GenerateResource.cache
+D:\Projects\Car Entry\obj\Debug\Car Entry.csproj.CoreCompileInputs.cache
+D:\Projects\Car Entry\obj\Debug\Car Entry.exe
+D:\Projects\Car Entry\obj\Debug\Car Entry.pdb
